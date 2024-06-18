@@ -19,8 +19,10 @@
 
 ## 项目简介
 
-蜻蜓（QingTing） 是一个经过微调的面向重大慢病的健康管理大模型，它基于Baichuan2-7b 架构，通过在医疗和健康领域的数据集上进行微调，使其在主动健康和支持方面具备更高的性能和专业性。
+蜻蜓（QingTing） 是一个经过微调的面向重大慢病的健康管理大模型，它基于Baichuan2-7B 架构，通过在医疗和健康领域的数据集上进行微调，使其在主动健康和支持方面具备更高的性能和专业性。
 
+
+在线体验demo: http://ai.yhhealth.net
 
 <p align="center">
     <img src="/figure/QT02.png" width=900px/>
@@ -35,9 +37,9 @@
 
 
 
-## Demo 在线体验
+## Demo体验
 
-- DEMO: http://ai.yhhealth.net
+- 地址: http://ai.yhhealth.net
 
 一、设置个人信息获取个性化推荐
 <p align="center">
